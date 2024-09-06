@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://ritikraushan19:Mashoom%407250@cluster0.m0lmjgh.mongodb.net/courseSellingApp').then(()=>{
+mongoose.connect('x/courseSellingApp').then(()=>{
     console.log('mongodb connected')
 })
 
